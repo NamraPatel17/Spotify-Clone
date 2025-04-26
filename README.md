@@ -6,25 +6,19 @@ This project replicates the look and feel of Spotify’s web player interface.
 
 ✨ Features
 
-🎶 Attractive landing page similar to Spotify
-📱 Responsive design for different screen sizes
-🎨 Smooth and clean UI with custom CSS styling
-🖼️ Organized asset management using an Images/ folder
+🎶 Attractive landing page similar to Spotify.
+
+📱 Responsive design for different screen sizes.
+
+🎨 Smooth and clean UI with custom CSS styling.
+
+🖼️ Organized asset management using an Images/ folder.
 
 🛠️ Tech Stack
+
 HTML5
+
 CSS3
-
-📂 Project Structure
-
-pgsql
-Copy
-Edit
-Spotify-Clone/
-├── index.html
-├── style.css
-└── Images/
-    └── (All project images)
     
 🚀 How to Run the Project
 
@@ -45,9 +39,10 @@ Open the index.html file in your browser.
 
 
 🤝 Contributing
-Contributions are welcome!
-If you find a bug or want to add new features, feel free to create a pull request.
+
+Contributions are welcome! If you find a bug or want to add new features, feel free to create a pull request.
 
 📄 License
+
 This project is open-source and free to use.
 (You can add a specific license if you want.)
