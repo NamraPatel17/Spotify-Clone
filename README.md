@@ -1,56 +1,67 @@
-Spotify Clone 🎵
+# 🎵 Spotify Clone
 
-A simple and responsive Spotify UI Clone made using HTML and CSS.
-This project replicates the look and feel of Spotify’s web player interface.
+A simple and responsive **Spotify UI Clone** made using **HTML** and **CSS**. This project replicates the look and feel of Spotify’s web player interface.
 
+---
 
+## ✨ Features
 
-✨ Features
+- 🎶 Attractive landing page similar to Spotify
+- 📱 Responsive design for various screen sizes
+- 🎨 Smooth and clean UI with custom CSS styling
+- 🖼️ Organized assets inside an `Images/` folder
 
-🎶 Attractive landing page similar to Spotify.
+---
 
-📱 Responsive design for different screen sizes.
+## 🛠️ Tech Stack
 
-🎨 Smooth and clean UI with custom CSS styling.
+- **HTML5** for markup structure
+- **CSS3** for styling and layout
 
-🖼️ Organized asset management using an Images/ folder.
+---
 
+## 📂 Project Structure
 
+```
+Spotify-Clone/
+├── index.html
+├── style.css
+└── Images/
+    └── homepage-screenshot.png  # Screenshot for README
+```
 
-🛠️ Tech Stack
-
-HTML5
-
-CSS3
-
-    
-🚀 How to Run the Project
-
-Clone this repository:
-git clone https://github.com/NamraPatel17/Spotify-Clone.git
-
-Navigate to the project directory:
-cd Spotify-Clone
-
-Open the index.html file in your browser.
-
-
+---
 
 ## 📸 Screenshots
 
-### Homepage Preview
+### 🏠 Homepage Preview
 
 ![Spotify Clone Homepage](Images/homepage-screenshot.png)
 
+> _Make sure to save your screenshot as `homepage-screenshot.png` inside the `Images/` folder._
 
+---
 
-🤝 Contributing
+## 🚀 How to Run
 
-Contributions are welcome! If you find a bug or want to add new features, feel free to create a pull request.
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/NamraPatel17/Spotify-Clone.git
+   ```
+2. **Navigate into the directory**:
+   ```bash
+   cd Spotify-Clone
+   ```
+3. **Open** `index.html` in your web browser.
 
+---
 
+## 🤝 Contributing
 
-📄 License
+Contributions are welcome! Feel free to fork the repo, make your changes, and submit a pull request.
 
-This project is open-source and free to use.
-(You can add a specific license if you want.)
+---
+
+## 📄 License
+
+This project is open-source.
