@@ -38,8 +38,6 @@ Spotify-Clone/
 
 ![Spotify Clone Homepage](Images/homepage-screenshot.png)
 
-> _Make sure to save your screenshot as `homepage-screenshot.png` inside the `Images/` folder._
-
 ---
 
 ## 🚀 How to Run
